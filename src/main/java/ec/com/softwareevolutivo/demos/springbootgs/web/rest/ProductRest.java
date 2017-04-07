@@ -29,7 +29,7 @@ public class ProductRest {
 		  product2.setId(2L);
 		  product2.setName("Product 2");
 		  product2.setPrice(3.49);
-		  productList.add(product1);
+		  productList.add(product2);
 		  
 		  return productList;
 		  

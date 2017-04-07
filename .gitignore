@@ -1,4 +1,6 @@
+target
 .classpath
 .settings/
 .metadata
 .project
+.idea
